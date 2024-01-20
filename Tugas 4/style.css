@@ -1,0 +1,8 @@
+input {
+  font-size: 1em;
+}
+
+button{
+  font-size: 2em;
+  color: orange !important;
+}

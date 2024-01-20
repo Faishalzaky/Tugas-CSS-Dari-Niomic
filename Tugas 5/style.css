@@ -1,0 +1,29 @@
+header{
+  background-color: black;
+}
+
+.div-menu, table, td, a{
+  color: white;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+.slider-div{
+  margin-top: 10px;
+  text-align: center;
+}
+
+p{
+  text-align: justify;
+}
+
+footer{
+  background-color: black;
+  text-align: center;
+  color: white;
+  font-weight: bold;
+}
+
+.footer{
+  font-weight: bold;
+}

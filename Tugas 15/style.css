@@ -1,0 +1,93 @@
+.container{
+  height: 500px;
+  background-color: beige;
+  display: flex;
+  align-items: flex-start;
+}
+
+.box-box1{
+  background-color: rgb(82, 53, 154);
+  text-align: center;
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  padding: 50px;
+}
+.box-box2{
+  background-color: rgb(35, 178, 245);
+  text-align: center;
+  color: white;
+  font-weight: bold;
+  margin-top: 65px;
+  font-size: 20px;
+  padding: 50px;
+}
+.box-box3{
+  background-color: rgb(114, 160, 55);
+  text-align: center;
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  padding: 50px;
+}
+.box-box4{
+  background-color: rgb(15, 41, 38);
+  text-align: center;
+  color: white;
+  font-weight: bold;
+  margin-top: 65px;
+  font-size: 20px;
+  padding: 50px;
+}
+.box-box5{
+  background-color: rgb(227, 43, 43);
+  text-align: center;
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  padding: 50px;
+}
+
+.box-box6{
+  background-color: rgb(221, 149, 209);
+  text-align: center;
+  color: white;
+  font-weight: bold;
+  margin-top: 65px;
+  font-size: 20px;
+  padding: 50px;
+}
+.box-box7{
+  background-color: rgb(176, 193, 51);
+  text-align: center;
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  padding: 50px;
+}
+.box-box8{
+  background-color: rgb(66, 160, 191);
+  text-align: center;
+  color: white;
+  font-weight: bold;
+  margin-top: 65px;
+  font-size: 20px;
+  padding: 50px;
+}
+.box-box9{
+  background-color: rgb(180, 102, 63);
+  text-align: center;
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  padding: 50px;
+}
+.box-box10{
+  background-color: rgb(116, 56, 154);
+  text-align: center;
+  color: white;
+  font-weight: bold;
+  margin-top: 65px;
+  font-size: 20px;
+  padding: 50px;
+}

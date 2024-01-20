@@ -1,0 +1,71 @@
+header{
+  background-color: black;
+}
+header ul li{
+  text-decoration: none;
+  display: inline-block;
+  padding: 10px;
+  margin-left: -40px;
+}
+header ul li a{
+  text-decoration: none;
+  color: white;
+  padding: 20px;
+}
+
+.slider{
+  background-image: linear-gradient(aqua, aqua);
+  width: 100%;
+  margin-top: -20px;
+}
+.slider-img{
+  width: 95%;
+  margin-left: 10px;
+  margin-top: 15px;
+}
+
+.image{
+  width: 170px;
+  height: 250px;
+  float: left;
+  margin-top: 31px;
+  margin-right: 30px;
+  margin-left: 25px;
+  position: relative;
+  z-index: 5;
+}
+
+.slider1{
+    background-image: linear-gradient(aqua, aqua);
+    width: 100%;
+    height: 450px;
+    position: absolute;
+    margin-top: 25px;
+}
+
+.p-text{
+  column-count: 4;
+  column-rule: 2px solid black;
+  column-gap: 50px;
+  column-width: 220px;
+  column-fill: balance;
+  z-index: 6;
+  position: relative;
+  margin-left: 210px;
+  margin-top: 50px;
+}
+
+.footer{
+  background-color: black;
+  font-size: 15px;
+  font-weight: bold;
+  color: white;
+  text-align: center;
+  padding: 4px;
+}
+
+.footer h2{
+  margin-top: -5px;
+}
+
+
